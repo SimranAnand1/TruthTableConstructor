@@ -1,8 +1,8 @@
-# Truth Table Generator
+<center># Truth Table Generator</center>
 
 ## About Project :
 
-- "Truth table generator" is a desktop app which  generates the truth table for propositional logic formulas. 
+- " Truth table generator " is a desktop app which  generates the truth table for propositional logic formulas. 
 
 - It uses Graphical User Interface (GUI) and is created using Java programming language in NetBeans IDE. 
 
