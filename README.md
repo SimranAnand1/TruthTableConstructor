@@ -1,6 +1,6 @@
-->TRUTH TABLE GENERATOR<-
+# TRUTH TABLE GENERATOR
 
-## About Project :
+### About Project :
 
 - " Truth table generator " is a desktop app which  generates the truth table for propositional logic formulas. 
 
