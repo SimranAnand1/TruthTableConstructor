@@ -1,4 +1,4 @@
--> TRUTH TABLE GENERATOR <-
+->TRUTH TABLE GENERATOR<-
 
 ## About Project :
 
