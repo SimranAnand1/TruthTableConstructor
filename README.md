@@ -15,7 +15,9 @@
 
 - And a Pop up window is for the user to enter input while running the project and output to be displayed.
 
-![](SimranAnand1/images/to/tt.png)
+
+![tt](https://user-images.githubusercontent.com/67438489/94869035-03ae6900-0462-11eb-9315-580cbecad35b.png)
+
 
 - We may not sketch out a truth table in our everyday lives, but we still use the logical reasoning that truth tables are built from to evaluate 
   whether statements are true or false. 
