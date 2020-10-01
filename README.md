@@ -1,4 +1,4 @@
-<center># Truth Table Generator</center>
+<center>Truth Table Generator</center>
 
 ## About Project :
 
